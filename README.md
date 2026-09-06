@@ -26,8 +26,6 @@ YouTube-Clone/
 
 ## Live Demo
 
-Add your Vercel live demo link here.
 
-## Author
 
-Prince Kumar
+
