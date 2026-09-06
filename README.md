@@ -1,4 +1,10 @@
+# YouTube Clone
+
 A responsive YouTube clone built using HTML5 and CSS3.
+
+## 🚀 Live Demo
+
+[**View Live Demo →**](https://youtube-clone-liart-eight.vercel.app/)
 
 ## Features
 
@@ -19,14 +25,8 @@ A responsive YouTube clone built using HTML5 and CSS3.
 
 ## Project Structure
 
+```text
 YouTube-Clone/
 ├── index.html
 ├── style.css
 └── images/
-
-## Live Demo
-https://youtube-clone-liart-eight.vercel.app/
-
-
-
-
